@@ -2,7 +2,6 @@
  Pequena página do telegram bot
  prévia(ícone do telegram grande é um lottie):
  
- _ainda preciso verificar o por que de não estar funcionando a página, então é só a pre´via por enquanto_
  
 ![image](https://user-images.githubusercontent.com/100159466/155449091-d20a9ce9-fb41-4d4f-9696-ed3a95e0b064.png)
 
